@@ -28,7 +28,7 @@ This program features a sphere textured with a map of the world.
 * Use your mouse cursor to rotate the globe.
 * Use the sliders below the globe to adjust the light's position
 * Click on the checkbox to enable the earth to rotate on its own. Note: This disables any mouse events on the globe until the checkbox is unchecked.
-* This program makes use of per-fragment lighting calculation and is based on the WebGL Lesson 15 at [Learning WebGL] (http://learningwebgl.com/blog/?p=1778) as well as example 8 from the course.
+* This program makes use of per-fragment lighting calculation and is based on the WebGL Lesson 15 at [Learning WebGL] (http://learningwebgl.com/blog/?p=1778) as well as example 8 from the course. It makes use of the glMatrix library for matrix calculations.
 
 
 **Time To Complete Assignment:** ~8 hours
